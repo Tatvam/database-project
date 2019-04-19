@@ -1,9 +1,26 @@
 <template>
-    <div class="container">
-        <div class="jumbotron mt-5">
-            <div class="col-sm-8 mx-auto">
-                <h1 class="text-center">WELCOME</h1>
-            </div>
+<div>
+    <section class="section section-shaped section-lg my-0">
+        <div class="shape shape-style-1 bg-gradient-default">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
         </div>
-    </div>
+    </section>
+    <section class="section section-skew">
+        <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+    </section>
+</div>
 </template>
+<script>
