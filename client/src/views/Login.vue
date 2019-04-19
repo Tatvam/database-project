@@ -109,7 +109,7 @@ export default {
              this.emitMethod()
         }).catch(err => {
             alert("The username and / or password is incorrect")
-            console.log(err)
+            //console.log(err)
         })
        
       }else{
